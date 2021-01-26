@@ -7,6 +7,7 @@ Do the following:
 1. On your machine, open up this file (`InClass/README.md`) in a text editor of your choice.
 
 1. In the `README.md` file, below these instructions, add an ordered list of what you ate for breakfast today.
+breakfast_today = ["apple", "peanut butter", "water", "coffee", "blackberries"]
 
 1. Using your terminal or GitHub Desktop, add and commit the changes you've made to your repository
 
